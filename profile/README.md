@@ -9,7 +9,7 @@
 
 ##
 
-S H A D O W B O X 
+SHADOWBOX
 
 > Future-proof ML engineering. ComfyUI re-envisioned.
 
