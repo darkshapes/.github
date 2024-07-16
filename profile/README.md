@@ -8,3 +8,13 @@
 > ##### V: As much as necessary, with as little as possible.
 
 ##
+
+S H A D O W B O X 
+
+> Future-proof ML engineering. ComfyUI re-envisioned.
+
+### I. [sdbx](https://github.com/darkshapes/sdbx)
+##### shadowbox server
+
+### II. [singularity](https://github.com/darkshapes/singularity)
+##### shadowbox thin client
