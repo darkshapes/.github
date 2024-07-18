@@ -9,7 +9,7 @@
 
 ##
 
-SHADOWBOX
+![SDBXtext](https://github.com/user-attachments/assets/7ca16a7b-0826-4e1d-b6ac-e00c443d4777)
 
 > Future-proof ML engineering. ComfyUI re-envisioned.
 
