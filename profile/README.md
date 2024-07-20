@@ -10,6 +10,7 @@
 > ##### III。 让手动任务的超越让位于探索、灵感和创造力。
 > ##### IV。 今天，我们一起用系统和自发的方式完善我们的世界。
 > ##### V：尽可能多，尽可能少。
+##
 </details>
 
 <details><summary>
@@ -23,6 +24,7 @@
 > ##### III. Пусть трансцендентность ручных заданий уступить место исследованию, вдохновению и творчеству.
 > ##### IV. Вместе сегодня мы совершенствуем наш мир систематическим и спонтанным.
 > ##### V: столько, сколько необходимо, с как можно меньшим количеством.
+##
 </details>
 
 <details><summary>
@@ -36,6 +38,7 @@
 > ##### III. Deja que la trascendencia de las tareas manuales dé paso a la exploración, la inspiración y la creatividad.
 > ##### IV. Juntos, hoy, refinamos nuestro mundo con lo sistemático y lo espontáneo.
 > ##### V: Tanto como sea necesario, con lo menos posible.
+##
 </details>
 
 <details><summary>
@@ -50,6 +53,7 @@
 > ##### III. Que la transcendance des tâches manuelles cède la place à l'exploration, à l'inspiration et à la créativité.
 > ##### IV. Ensemble, aujourd'hui, nous affinons notre monde avec le systématique et le spontané.
 > ##### V : Autant que nécessaire, avec le moins possible.
+##
 </details>
 
 <details><summary>
@@ -63,7 +67,10 @@
 > ##### III. Let the transcendence of manual tasks give way to exploration, inspiration and creativity.
 > ##### IV. Together, today, we refine our world with the systematic and spontaneous.
 > ##### V: As much as necessary, with as little as possible.
+##
 </details>
+
+
 
 ![SDBXtext](https://github.com/user-attachments/assets/7ca16a7b-0826-4e1d-b6ac-e00c443d4777)
 
