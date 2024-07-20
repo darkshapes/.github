@@ -1,5 +1,6 @@
 <details><summary> 
-#### 我们的设计原则</div>
+  
+##### 我们的设计原则</div>
 </summary>
 
 ##
@@ -12,7 +13,8 @@
 </details>
 
 <details><summary>
-#### Наши принципы проектирования </div>
+  
+##### Наши принципы проектирования </div>
 </summary>
 
 ##
@@ -24,7 +26,8 @@
 </details>
 
 <details><summary>
-#### Nuestros principios de diseño </div>
+
+##### Nuestros principios de diseño </div>
 </summary>
 
 ##
@@ -36,7 +39,8 @@
 </details>
 
 <details><summary>
-#### Nos principes de conception </div>
+
+##### Nos principes de conception </div>
 </summary>
 
 ##
@@ -49,7 +53,8 @@
 </details>
 
 <details><summary>
-#### Our Design Principles  </div>
+
+##### Our Design Principles  </div>
 </summary>
 
 ##
@@ -62,7 +67,7 @@
 
 ![SDBXtext](https://github.com/user-attachments/assets/7ca16a7b-0826-4e1d-b6ac-e00c443d4777)
 
-> Future-proof ML engineering. ![ComfyUI](https://github.com/comfyanonymous/ComfyUI) re-envisioned.
+> Future-proof ML engineering. [ComfyUI](https://github.com/comfyanonymous/ComfyUI) re-envisioned.
 
 > Shadowbox = sdbx + singularity
 
