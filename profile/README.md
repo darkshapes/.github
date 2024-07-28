@@ -5,11 +5,11 @@
 
 ##
 
-> ##### I.洞察力是一项基本权利，为捍卫他人的权利铺平了道路。</span>
-> ##### II。 我们的任务是消除障碍，吸引自我实现、联系和理解。
-> ##### III。 让手动任务的超越让位于探索、灵感和创造力。
-> ##### IV。 今天，我们一起用系统和自发的方式完善我们的世界。
-> ##### V：尽可能多，尽可能少。
+> ##### 1 人道。</span>
+> ##### 2 为所有人构建。
+> ##### 3 分享和提升。
+> ##### 4 平衡游戏和智慧。
+> ##### 5 简化。
 ##
 </details>
 
@@ -19,11 +19,11 @@
 </summary>
 
 ##
-> ##### I. Понимание является важным правом и прокладывает путь к защите прав других. </span>
-> ##### II. Наша задача - устранить препятствия, пригласив к самореализации, связи и взаимопониманию.
-> ##### III. Пусть трансцендентность ручных заданий уступить место исследованию, вдохновению и творчеству.
-> ##### IV. Вместе сегодня мы совершенствуем наш мир систематическим и спонтанным.
-> ##### V: столько, сколько необходимо, с как можно меньшим количеством.
+> ##### 1 Будьте гуманны.</span>
+> ##### 2 Стройте для всех.
+> ##### 3 Делитесь и поднимайтесь.
+> ##### 4 Баланс игры и мудрости.
+5 Упростите.
 ##
 </details>
 
@@ -33,11 +33,11 @@
 </summary>
 
 ##
-> ##### I. La perspicacia es un derecho esencial y allana el camino para salvaguardar los derechos de los demás. </span>
-> ##### II. Nuestra tarea es disolver los obstáculos, invitando a la autorrealización, la conexión y la comprensión.
-> ##### III. Deja que la trascendencia de las tareas manuales dé paso a la exploración, la inspiración y la creatividad.
-> ##### IV. Juntos, hoy, refinamos nuestro mundo con lo sistemático y lo espontáneo.
-> ##### V: Tanto como sea necesario, con lo menos posible.
+> ##### 1 Sé humano.</span>
+> ##### 2 Construir para todos.
+> ##### 3 Comparte y eleva.
+> ##### 4 Juego de equilibrio y sabiduría.
+> ##### 5 Simplificar.
 ##
 </details>
 
@@ -47,12 +47,11 @@
 </summary>
 
 ##
-
-> ##### I. Insight est un droit essentiel et ouvre la voie à la sauvegarde des droits des autres. </span>
-> ##### II. Notre tâche est de dissoudre les obstacles, en invitant à la réalisation de soi, à la connexion et à la compréhension.
-> ##### III. Que la transcendance des tâches manuelles cède la place à l'exploration, à l'inspiration et à la créativité.
-> ##### IV. Ensemble, aujourd'hui, nous affinons notre monde avec le systématique et le spontané.
-> ##### V : Autant que nécessaire, avec le moins possible.
+> ##### 1 Sois humain.</span>
+> ##### 2 Construisez pour tous.
+> ##### 3 Partagez et élevez.
+> ##### 4 Équilibre jeu et sagesse.
+> ##### 5 Simplifiez.
 ##
 </details>
 
@@ -62,17 +61,17 @@
 </summary>
 
 ##
-> ##### I. Insight is an essential right and paves the way for safeguarding others' rights. </span>
-> ##### II. Our task is to dissolve obstacles, inviting self-realization, connection, and understanding.
-> ##### III. Let the transcendence of manual tasks give way to exploration, inspiration and creativity.
-> ##### IV. Together, today, we refine our world with the systematic and spontaneous.
-> ##### V: As much as necessary, with as little as possible.
+> ##### 1 Be humane.</span>
+> ##### 2 Build for all.
+> ##### 3 Share and elevate.
+> ##### 4 Balance play and wisdom.
+> ##### 5 Simplify.
 ##
 </details>
 
 
 
-![SDBXtext](https://github.com/user-attachments/assets/7ca16a7b-0826-4e1d-b6ac-e00c443d4777)
+![A logo declaring the project name with an icon beside it. On the left is a vector drawing of 'The anomaly', which is a strange shape, sort of like a black hole, that creates a 4-dimensional box from the empty space within it. Thin and modern lettering spells "SHADOWBOX' to the right.](https://github.com/user-attachments/assets/7ca16a7b-0826-4e1d-b6ac-e00c443d4777)
 
 > Future-proof ML engineering. [ComfyUI](https://github.com/comfyanonymous/ComfyUI) re-envisioned.
 
