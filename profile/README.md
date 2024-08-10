@@ -12,7 +12,7 @@
 
 ##
 ##### Can Artificial Intelligence be a good thing?
-##### Can Machine Learning come from a place of hope?
+##### Can Machine Learning facilitate hope?
 ##### Can software come from a place of healing?
 ##### Can opposition beget construction and unity?
 ##### Can we do better?
