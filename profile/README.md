@@ -16,4 +16,5 @@
 ##### Can software come from a place of healing?
 ##### Can opposition beget construction and unity?
 ##### Can we do better?
+##### We build our answer.
 ##
