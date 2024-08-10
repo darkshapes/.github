@@ -11,11 +11,9 @@
 #### [More Information at our Wiki](https://github.com/darkshapes/sdbx/wiki)
 
 ##
-
-Can AI be a good thing?
-Can it come from a place of hope?
-Can it come from a place of healing?
-Can opposition become construction?
-Can we do better?
-
+##### Can Artificial Intelligence be a good thing?
+##### Can Machine Learning come from a place of hope?
+##### Can software come from a place of healing?
+##### Can opposition beget construction and unity?
+##### Can we do better?
 ##
