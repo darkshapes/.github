@@ -9,13 +9,7 @@
 #### We build our answers.
 ##
 
-> Shadowbox = sdbx + singularity
-
-#### I. [sdbx](https://github.com/darkshapes/sdbx)
-##### shadowbox server
-
-#### II. [singularity](https://github.com/darkshapes/singularity)
-##### shadowbox thin client
-
 #### [More Information at our Wiki](https://github.com/darkshapes/sdbx/wiki)
+
+> Shadowbox = sdbx + singularity
 
