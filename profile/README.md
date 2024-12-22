@@ -13,3 +13,4 @@
 
 > Shadowbox = sdbx + singularity
 
+Interactive, local-first no-code generative media. | 
