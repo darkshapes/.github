@@ -1,4 +1,4 @@
-# DARKSHAPES
+# d a r k s h a p e s
 
 Darkshapes is a speculative research group founded by artist-developers towards responsible technology and sustainable community.
 We are an umbrella organization of lifetime creatives rethinking machine-learning technology as tools that work for people, not just corporations.
