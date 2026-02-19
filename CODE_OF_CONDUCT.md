@@ -19,6 +19,7 @@ We follow the [Vojkruco Guidleines](https://codeberg.org/Vojkruco/Cooperative_De
 name = “EXDYSA", pronouns = “She/Her" / @exdysa
 name = “Max Tretikov", pronouns = “They/Them, He/Him"  / @mtretikov
 
+![Caption: This is an LGBTQIA+ neurodivergent community, a distillation of many different genders, cultures, abilities, and peoples. If you cannot do the work to accept pronouns, race, love, bodies, and other normal genetic expressions of the human species then do not waste your time and ours and leave.](./026-01-29_at_12.03.13.png)
 ## Behavior Guide
 
 |              Behavior | Should Be                                                   |
