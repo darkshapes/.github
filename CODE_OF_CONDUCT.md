@@ -1,4 +1,4 @@
-# Contributor Code of Conduct
+# Code of Conduct Quick Reference
 
 ---
 title: "Code of Conduct"
@@ -10,11 +10,7 @@ license: CC0-1.0
 version: 0.0.6
 ---
 
-# Code of Conduct Quick Reference
-
 Version = 0.0.6_2026-18-02
-
-[back to ABOUT](https://discord.com/channels/1266757128249675867/1451678089150201917)
 
 We follow the [Vojkruco Guidleines](https://codeberg.org/Vojkruco/Cooperative_Development_Guidelines/src/branch/main/Foundation/Mediation%20Circle/Code%20of%20Conduct.md)
 
